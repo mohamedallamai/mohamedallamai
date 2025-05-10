@@ -1,40 +1,65 @@
-- 👋 Hi, I'm __mohamed allam__
+<h1 align="center">👋 Hi, I'm Mohammed Allam</h1>
+<p align="center">
+  🇪🇬 Passionate AI Engineer | NLP & Generative AI Specialist
+</p>
 
-I'm a passionate computer science student and aspiring AI/ML enthusiast with a keen interest in developing innovative solutions using cutting-edge technologies. I'm actively exploring the realms of artificial intelligence and machine learning.
+---
 
-- 👀 I'm interested in:
+### 🧠 About Me
 
-__Artificial Intelligence (AI)__: the potential of AI to revolutionize various aspects of our lives, from healthcare and education to transportation and environmental sustainability.
+🎓 I specialize in **Natural Language Processing**, **Generative AI**, and **LLM-based Applications**.  
+💡 I love solving real-world problems by building intelligent products using `LangChain`, `Hugging Face`, `OpenAI`, and advanced `Vector Databases`.  
+🚀 Currently working on intelligent assistants, AI-driven exam generation systems, and multimodal recommendation engines.  
+📚 Lifelong learner with a strong interest in cutting-edge ML techniques and sharing knowledge with the tech community.
 
-__Machine Learning (ML)__: the power of ML algorithms to extract insights from data and make intelligent decisions. I'm particularly interested in deep learning and its applications in natural language processing, computer vision, and predictive modeling.
+---
 
-__Data Science__: the role of data science in unlocking the hidden patterns and insights embedded within vast datasets. I'm eager to apply data science techniques to solve real-world problems and make data-driven decisions.
+### 🌐 Connect with Me
 
-- 🌱 I'm currently learning:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://mohamedallamai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedallamai/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedallam048@gmail.com)
 
-__Python__: I'm constantly expanding my knowledge of its vast library of libraries and frameworks.
+---
 
-__TensorFlow__: TensorFlow is my go-to deep learning framework, and I'm actively learning its advanced features and applications.
+### 🧰 Tech Stack
 
-__SQL__: I'm gaining proficiency in SQL to effectively query and manipulate data from relational databases.
+#### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
-- 💞️ I'm looking to collaborate on:
+#### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-__AI/ML projects__: I'm eager to collaborate with like-minded individuals on exciting AI/ML projects that address real-world challenges and make a positive impact.
+#### 🧠 LLM & Generative AI Tools
+![LangChain](https://img.shields.io/badge/LangChain-1572B6?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=python&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-FAISS%2C%20Chroma%2C%20Qdrant%2C%20Weaviate-4B0082?style=for-the-badge)
 
-__Open-source contributions__: contributing to open-source projects to share my knowledge and learn from experienced developers.
+#### 🖥️ Backend & GUI
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge&logo=python)
 
+#### 🌐 Frontend & UI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FFB6C1?style=for-the-badge&logo=gradio&logoColor=black)
 
-- 📫 How to reach me:
+#### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-__Email__: mohammedallam048@gmail.com
+#### 🛢️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-__LinkedIn__: [www.linkedin.com/in/mohamedallamai]
+---
 
-I'm always open to connecting with others in the AI/ML community and learning from their experiences. Feel free to reach out if you have any questions or want to discuss collaboration opportunities.
-
-I'm excited to embark on this journey of learning, exploring, and contributing to the ever-evolving world of AI and ML. I believe that technology has the power to solve some of the world's most pressing challenges, and I'm committed to using my skills and knowledge to make a positive difference.
-<!---
-mohamedallamai/mohamedallamai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>Thanks for visiting! Let's build the future with AI 🚀</i>
+</p>
